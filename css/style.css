@@ -7,6 +7,13 @@
 .inline-block{
 
     display: inline-block;
+    width: 50px;
+    padding: 20px 0px;
+    margin-left: 20px;
+}
+
+.central{
+    vertical-align: middle;
 }
 
 header{
