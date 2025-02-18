@@ -25,6 +25,7 @@ header{
 body{
 
     background-color: #e1e1e1;
+   
 
 }
 
@@ -33,13 +34,23 @@ body{
     margin: 0 auto;
     background-color: white;
     margin-top: 40px;
+    padding: 20px 0px 60px 40px;
+
 
 }
 
 
 .tasti{
-   
+    padding: 5px;
+    margin-right: 5px;
 
+
+}
+
+.Palla{
+    padding: 5px;
+    
+    
 
 }
 
@@ -50,11 +61,19 @@ body{
 
 .Grigio{
     background-color: grey;
+    color: #e1e1e1a1;
+    
+
+}
+
+.list{
+    display: list-item none;
 }
 
 .Verde{
 
     background-color: green;
+    color: rgb(68, 255, 47);
 }
 
 .Viola{
@@ -64,6 +83,7 @@ body{
 
 .Rosso{
 background-color: red;
+color: yellow;
     
 }
 
@@ -79,4 +99,8 @@ background-color: orange;
 .Verde-2{
 
     background-color: greenyellow;
+}
+
+.Bianco{
+    color: white;
 }
