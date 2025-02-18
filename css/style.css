@@ -18,15 +18,10 @@
 
 header{
     background-color: white
-    
-
 }
 
 body{
-
     background-color: #e1e1e1;
-   
-
 }
 
 .container{
@@ -35,61 +30,72 @@ body{
     background-color: white;
     margin-top: 40px;
     padding: 20px 0px 60px 40px;
-
-
 }
 
 
 .tasti{
     padding: 5px;
     margin-right: 5px;
-
-
+    border-radius: 5px;  
 }
 
 .Palla{
     padding: 5px;
-    
-    
+    margin: 5px;
+    border-radius: 20px;
+}
 
+.Segno{
+    background-color: white;
+    border: solid;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding: 7px;       
 }
 
 .Azzuro{
-
    background-color: rgb(75, 145, 185); 
 }
 
 .Grigio{
-    background-color: grey;
-    color: #e1e1e1a1;
-    
-
-}
-
-.list{
-    display: list-item none;
+    background-color: white;
+    color: rgb(169, 169, 169);
+    border-color: rgb(169, 169, 169);
+    border: solid;
 }
 
 .Verde{
-
-    background-color: green;
     color: rgb(68, 255, 47);
+    padding: 5px;
+    margin: 5px;
 }
 
 .Viola{
-
     background-color: blueviolet;
 }
 
 .Rosso{
-background-color: red;
-color: yellow;
-    
+color: red;
+padding: 5px;
+margin: 5px;
+
 }
 
 .Arancio{
-background-color: orange;
-    
+background-color: orange;   
 }
 
 .Rosa{
@@ -97,7 +103,6 @@ background-color: orange;
 }
 
 .Verde-2{
-
     background-color: greenyellow;
 }
 
